@@ -75,10 +75,6 @@
                         variety of cultural outfits such as ethnic dresses, modest wear, traditional
                         garments, and cultural fashion accessories.
 
-                        Suppliers can showcase their products while customers can easily browse,
-                        search, filter, and purchase clothing items through our secure marketplace.
-                        ModestWear Global promotes cultural fashion and supports suppliers in
-                        reaching a wider audience globally.
                     </p>
 
                 </div>
